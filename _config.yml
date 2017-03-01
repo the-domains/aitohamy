@@ -1,0 +1,38 @@
+name: aitohamy
+analytics: {}
+github: true
+description: testing the grid
+author:
+  name: Ahmed Tohamy
+  url: tohmy.me
+  email: t@tohamy.me
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.6786692689638585
+color:
+  lightness: 0.875747674581536
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+  saturation: 0.6827648274327547
+  brandStrength: 0.885367657729743
+  rhythmicContrast: 0.00777330831805554
+content_rating:
+  adult: false
+typography_spectrum: 0.4477628252934664
+opengraph: {}
+title: t. Grid
